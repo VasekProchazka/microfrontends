@@ -1,38 +1,39 @@
+Problem:
+
+1. Long gitflow
+2. hard deployes
+3. stability
+
+What is micro front-ends
 
 Two types of micro-frontends
+
 - build time
 - run time
 
 1. Build time.
 
 Application build with all code
-we use it today 
+we use it today
 
- + no implementation
+- no implementation
 
- - workflow time
- - one big website
- - huge releases
+* workflow time
+* one big website
+* huge releases
 
- 2. Run time
+2.  Run time
 
- + smaller releases
- + webpack module federation plugin
+- smaller releases
+- webpack module federation plugin
 
- - more complex implementation
-
-
+* more complex implementation
 
 Run-time micro-frontends options
 
-
- 1. iframes
- 2. Webpack module federation plugin
- 3. Web components
-
-
-
-
+1.  iframes
+2.  Webpack module federation plugin
+3.  Web components
 
 Our case
 
@@ -41,4 +42,3 @@ Our case
 3. Build each app separately
 4. Run each app like running app
 5. Module federation plugin for orchestration apps
-
