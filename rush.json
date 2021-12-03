@@ -417,10 +417,14 @@
     //   // "versionPolicyName": ""
     // },
     // 
-    {
-      "packageName": "running-app",
-      "projectFolder": "apps/running-app"
-    },
+    // {
+    //   "packageName": "running-app",
+    //   "projectFolder": "apps/running-app"
+    // }
+    // {
+    //   "packageName": "vue-container-app",
+    //   "projectFolder": "apps/vue-container-app"
+    // }
     // 
     // {
     //   "packageName": "my-toolchain",
